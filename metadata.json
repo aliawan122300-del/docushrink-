@@ -1,0 +1,6 @@
+{
+  "name": "DocuShrink – Exact-Size PDF Compressor & Zero-Upload PDF Tools",
+  "description": "Compress PDF to exact target file sizes (100KB, 200KB, 500KB, 1MB, 2MB) for government, visa, and portal limits. 100% private, free, and processed locally in your browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
